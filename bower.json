@@ -1,0 +1,24 @@
+{
+  "name": "reqwest",
+  "description": "A wrapper for asynchronous http requests",
+  "main": "reqwest.min.js",
+  "authors": [
+    "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ender",
+    "ajax",
+    "xhr",
+    "connection",
+    "async",
+    "sync"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
